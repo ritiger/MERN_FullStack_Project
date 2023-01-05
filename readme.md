@@ -23,8 +23,8 @@ npm install
 npm run server
 ```
 
-## Demo
+### Run MERN App
 
-I am not sure how long this will be up
-
-https://mernappbrad.herokuapp.com/
+```
+npm run dev
+```
